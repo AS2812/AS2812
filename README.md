@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm Ahmed Shacker, currently taking the DEPI-Data Analytics Track, enrolled in Google's Cybersecurity course on Coursera, and learning JavaScript on YouTube. Alongside, I volunteer with IEEE, where I help organize events, conduct workshops, and promote STEM education in my community.
+I'm Ahmed Shacker, currently pursuing a Bachelor's degree in Computer Science with a specialization in Cybersecurity at Alexandria University (expected graduation: July 2027). I'm focused on a blue team career path, and I enjoy engaging in various projects, learning new skills, and volunteering. 
+
+### Currently, I am:
+- Taking the **DEPI-Data Analytics** track
+- Enrolled in **Google’s Cloud Security** and **Cybersecurity** courses on Coursera
+- Learning **JavaScript** on YouTube
+
+I'm also a dedicated volunteer with the **IEEE committee**, where I help organize events, conduct workshops, and promote STEM education. Additionally, I work with the **Gelfi Society** to support children with disabilities.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chaker8267) 
@@ -11,23 +18,21 @@ I'm Ahmed Shacker, currently taking the DEPI-Data Analytics Track, enrolled in G
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Life-i8x) 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+I'm skilled in various programming languages and tools:
+
+- **Languages**: C, C++, Python, Java, R, HTML, CSS
+- **Cybersecurity**: Cloud Security, TCP/IP, network protocols, defensive cybersecurity
+- **Data Analysis**: NumPy, Pandas, R Shiny (for data visualization and analytics)
+- **Tools**: GitHub, Google Cloud, Adobe (Premiere Pro), Canva, Figma
+- **Software**: CLion, Microsoft Word, Adobe Premiere Pro
+
+# 🎓 Projects:
+My projects are diverse, covering different aspects of software development, data structures, and algorithms:
+
+- **Java Projects**: E-commerce System, Hotel System, Airport Management System, Bank System
+- **Python Projects**: Space Dodge, 8-Queens Problem Solver (Genetic Algorithm), Depth-First Search (DFS), Breadth-First Search (BFS), Chess Game
+- **Data Science in R**: Customer Behavior Analysis, Data Cleaning, K-means Clustering, Association Rule Mining
+- **Web Development**: Personal Portfolio Website, Twitter Clone, YouTube Clone (HTML & CSS)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AS2812&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -37,7 +42,7 @@ I'm Ahmed Shacker, currently taking the DEPI-Data Analytics Track, enrolled in G
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=AS2812&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
