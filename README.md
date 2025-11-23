@@ -3,102 +3,65 @@
 🎓 **B.Sc. Computer Science (Cybersecurity)**  
 Alexandria University – Expected Graduation: **July 2027**
 
-I'm a cybersecurity-focused Computer Science student with a strong interest in **blue team, threat detection, and defensive security**.  
-Alongside security, I work on **data analytics projects**, build **educational cybersecurity content**, and teach coding to school students.
+I’m a cybersecurity-focused Computer Science student with a strong interest in **blue team, threat detection, SOC analytics, and defensive security**.  
+Alongside security, I love working on **data analytics projects**, building **educational cybersecurity content**, and teaching coding to school students.
 
 ---
 
-## 🔐 What I'm Focused On
+## 🔍 What I'm Focused On
 
-- Blue Team & Defensive Security (Network Security, SIEM, Vulnerability Assessment)
-- Data Analytics & ML for security and business insights
-- Teaching & mentoring students in programming and STEM
+- **Blue Team & Defensive Security:** Network security, SOC/SIEM, log analysis, vulnerability assessment  
+- **Data Analytics & ML:** Turning data into insights for security and business problems  
+- **Teaching & Mentoring:** Helping students understand coding, problem-solving, and cyber safety  
+- **Content & Labs:** Building simple, hands-on labs for junior cybersecurity students
 
 ---
 
 ## 🚀 Currently Working On
 
-- 🛰️ **DEPI – Data Analyst Specialist** graduate: applying Python, SQL, and visualization tools to real datasets :contentReference[oaicite:0]{index=0}  
-- ☁️ Exploring **Cloud & Security** (Google Cloud + general cloud security concepts)
-- 💻 Deepening my **Python, C/C++**, and **JS** skills through personal and academic projects
-- 👨‍🏫 Creating simple, hands-on labs for **cybersecurity students** (blue-team oriented)
+- 📊 **DEPI – Data Analytics Track:** Python, SQL, Tableau/Power BI, dashboards and storytelling  
+- ☁️ **Exploring Cloud & Security:** Google Cloud and general cloud security concepts  
+- 🧪 **Security Projects:**  
+  - SOC / log-analysis mini-labs  
+  - Simple blue-team exercises for students  
+- 👨‍🏫 **Teaching & Volunteering:** STEM & coding sessions (Scratch, Python) and youth programs
 
 ---
 
-## 💼 Experience
+## 🧪 Highlight Projects
 
-### 🧭 Freelancing Coach – Elharefa (DEPI)
-**Sep 2025 – Nov 2025 · Remote**  
-- Coached students on how to start freelancing: niche selection, proposals, pricing.  
-- Helped them improve **professional branding**, communication, and portfolio quality. :contentReference[oaicite:1]{index=1}  
+- **SpotnSend Platform + Admin Dashboard**  
+  Full notification/reporting system with a React (Vite) + Supabase admin panel and Postgres backend.
 
-### 👩‍🎓 STEM & Coding Instructor – Francogram Academy  
-**Jan 2024 – Present · Alexandria, Egypt**  
-- Teach **Scratch & Python** to students from KG to high school in French schools.  
-- Design **project-based lessons** focusing on logic, loops, and problem-solving. :contentReference[oaicite:2]{index=2}  
+- **AES Ransomware Simulator (Cybersecurity)**  
+  Built using Assembly, C and Linux to demonstrate encryption flow and ransomware behavior in training labs.
 
-### 🛡️ Cybersecurity Academy & Network Infrastructure Trainee – NTI  
-**Aug 2025 – Sep 2025 · Hybrid**  
-- 60-hour intensive training with partners like **Palo Alto Networks**.  
-- Focused on **threat analysis, SIEM, OSI, TCP/IP, subnetting**, and core network fundamentals. :contentReference[oaicite:3]{index=3}  
+- **NYC MTA Ridership Forecast (Data Science)**  
+  Time-series + ensemble models (XGBoost, etc.) with interactive BI dashboards for ridership forecasting.
 
-### 🧪 Cybersecurity Intern – Offense Crest  
-**Aug 2024 – Oct 2024 · Hybrid**  
-- Developed an **AES ransomware proof-of-concept** using Assembly + C/C++ on Linux.  
-- Performed **vulnerability assessments** and applied **network hardening** strategies. :contentReference[oaicite:4]{index=4}  
-
-### 📊 Data Analyst Specialist Trainee – DEPI  
-**Sep 2024 – Jun 2025 · Hybrid**  
-- Used **Python, SQL, Tableau** for data cleaning, modeling, and dashboarding.  
-- Worked with cross-functional teams on a full **capstone data case study**. :contentReference[oaicite:5]{index=5}  
-
-### 🌐 ITI & CIB Egypt – CS50 & Digital Transformation  
-**Aug 2024 – Oct 2024 · Remote**  
-- Completed **CS50** fundamentals and built responsive **HTML/CSS** web pages.  
-- Gained **Data Literacy** and earned recognition in “Future of Workplace” competition. :contentReference[oaicite:6]{index=6}  
+- **Classic OOP & Algorithms Projects**  
+  E-commerce, Hotel, Airport, and Bank Management Systems in Java, plus Python projects like Space Dodge,
+  8-Queens (Genetic Algorithm), DFS/BFS visualizations, and a simple chess logic engine.
 
 ---
 
-## 🏅 Honors & Competitions
+## 🛠 Tech Stack
 
-- 🥇 **Top 10% Nationally – DIGITOPIA Competition** (MCIT Egypt, Oct 2025)  
-  Qualified for Round 2 among **6,500+ teams**, building a digital solution aligned with Egypt’s digital transformation strategy. :contentReference[oaicite:7]{index=7}  
-
----
-
-## 🧪 Selected Projects
-
-### 📈 NYC MTA Ridership Forecast (Data Science)
-- Tools: **Python, XGBoost, Power BI**  
-- Built an ensemble model with **R² = 0.9956** and interactive dashboards for ridership forecasting. :contentReference[oaicite:8]{index=8}  
-
-### 🔐 AES Ransomware Simulator (Cybersecurity)
-- Tools: **Assembly, C, Linux**  
-- Developed a simulator that demonstrates **encryption flow** and ransomware behavior for **educational use** (used in training sessions for 100+ students). :contentReference[oaicite:9]{index=9}  
-
-### 💻 Other Academic & Personal Projects
-- Java OOP Projects: **E-commerce System, Hotel System, Airport Management System, Bank System**  
-- Python: **Space Dodge game, 8-Queens with Genetic Algorithm, DFS/BFS visualizations, simple Chess logic**  
-- Web: **Personal Portfolio**, basic **Twitter/YouTube clones** (HTML & CSS)
+**Languages:** C, C++, Python, Java, R, HTML, CSS, SQL, a bit of TypeScript & Dart  
+**Cybersecurity:** Network Security, Vulnerability Assessment, Cryptography basics, Linux administration, TCP/IP, SIEM basics  
+**Data & Analytics:** NumPy, pandas, scikit-learn, Power BI, Tableau  
+**Tools & Platforms:** GitHub, Google Cloud, VS Code, CLion, PowerPoint/Word, Canva, Figma, Adobe Premiere Pro  
+**Languages (Human):** Arabic (Native), English (Professional), French (Professional)
 
 ---
 
-## 💻 Tech Stack
+## 🤝 Community & Volunteering
 
-**Languages:**  
-`Python` · `C` · `C++` · `Assembly` · `Java` · `R` · `HTML` · `CSS` · `SQL`
+- **IEEE** – Event organization, workshops, and STEM outreach  
+- **STEM & Coding Instructor** – Teaching Scratch & Python to kids in French and Arabic  
+- **Youth & Inclusion Initiatives** – Supporting kids and students through awareness and education programs  
 
-**Cybersecurity:**  
-Network Security · Vulnerability Assessment · Cryptography · Linux Administration · TCP/IP · SIEM basics
-
-**Data & Analytics:**  
-`pandas` · `NumPy` · `scikit-learn` · `XGBoost` · `Power BI` · `Tableau`
-
-**Tools & Platforms:**  
-GitHub · Google Cloud · Linux · VS Code · CLion · PowerPoint/Word · Canva · Figma · Adobe Premiere Pro
-
-**Languages (Human):**  
-🇪🇬 Arabic (Native) · 🇬🇧 English (Professional) · 🇫🇷 French (Professional) :contentReference[oaicite:10]{index=10}  
+If you’re working on something in **cybersecurity, SOC analytics, or data-driven security**, I’d love to connect and collaborate. 🚀
 
 ---
 
@@ -107,20 +70,18 @@ GitHub · Google Cloud · Linux · VS Code · CLion · PowerPoint/Word · Canva 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chaker8267)  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010561873665)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shacker__)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shacker-helmi-44a3762a4/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shacker-helmi/)  
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@studentcybersecurity)  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_chaker__)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Life-i8x)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Life-i8x) 
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AS2812&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=AS2812&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api?username=AS2812&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AS2812&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AS2812&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -130,6 +91,10 @@ GitHub · Google Cloud · Linux · VS Code · CLion · PowerPoint/Word · Canva 
 
 ---
 
-## 💰 Support
+[![](https://visitcount.itsvg.in/api?id=AS2812&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/Mrshaker1)
+## 💰 You can help me by Donating
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/Mrshaker1)  
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
