@@ -1,7 +1,6 @@
-# 👋 Hey, I'm Ahmed Shacker
+# 👋 Hey, I'm AS2812
 
 🎓 **B.Sc. Computer Science (Cybersecurity)**  
-Alexandria University – Expected Graduation: **July 2027**
 
 I’m a cybersecurity-focused Computer Science student with a strong interest in **blue team, threat detection, SOC analytics, and defensive security**.  
 Alongside security, I love working on **data analytics projects**, building **educational cybersecurity content**, and teaching coding to school students.
